@@ -28,31 +28,12 @@
 
 ---
 
-## 🔥 Streak de commits
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEUUSUARIO&theme=tokyonight"/>
-
-</p>
-
----
-
-## 🏆 Conquistas no GitHub
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=SEUUSUARIO&theme=tokyonight&row=1&column=6"/>
-
-</p>
-
----
-
 ## 📚 Atualmente estudando
 
 - JavaScript
 - Python
 - Linux
+- Banco de Dados
 - Redes de Computadores
 - Cibersegurança
 
