@@ -18,8 +18,6 @@
 
 ## 📚 Atualmente aprendendo
 
-- JavaScript
-- Python
 - Redes de Computadores
 - Sistemas Operacionais
 - Cibersegurança
