@@ -39,14 +39,6 @@
 
 ---
 
-## 📫 Contato
-
-LinkedIn:
-
-Email: clmribarbosa@gmail.com
-
----
-
 ## 🐍 Snake de commits
 
 ![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
