@@ -10,7 +10,7 @@
 
 ## 🚀 Tecnologias que estou estudando
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=js,python,html,css,linux,git,vscode" />
 </p>
 
