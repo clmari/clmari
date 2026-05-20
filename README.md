@@ -11,7 +11,7 @@
 
 ## 🎯 Sobre Mim
 
-Estou em transição para a área de **Análise de Dados**, combinando formação técnica com habilidades analíticas. Atualmente aprofundando conhecimentos em Python, Pandas, Numpy e ferramentas de BI.
+Técnica em informática apaixonada por tecnologia, aprendizado contínuo e resolução de problemas. Estou sempre buscando evoluir meus conhecimentos em ferramentas, automação e desenvolvimento.
 
 **Objetivos atuais:**
 - 📈 Construir portfólio sólido em análise de dados
@@ -59,15 +59,6 @@ Estou em transição para a área de **Análise de Dados**, combinando formaçã
 
 ---
 
-## 📈 Estatísticas GitHub
-
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=clmri&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clmri&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
 ## 🎓 Formação & Certificações
 
 **Em andamento:**
@@ -78,12 +69,15 @@ Estou em transição para a área de **Análise de Dados**, combinando formaçã
 ## 📫 Como me Encontrar
 
 <p align="left">
-<a href="[SEU_LINKEDIN](https://www.linkedin.com/in/maria-clara-barbosa-64772134b?utm_source=share_via&utm_content=profile&utm_medium=member_android)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:clmribarbosa@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/maria-clara-barbosa-64772134b/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+  
+<a href="mailto:clmribarbosa@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 </p>
-
 ---
-
 <p align="center">
-💡 <i>"Transformando dados em insights, código em soluções."</i>
+💡 <i>Obrigada pela atenção!</i>
 </p>
